@@ -3,7 +3,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     
     // BUG HOTFIX #2: Mauvais sélecteur - le bouton a l'ID "btn-reservation"
-    const reservationBtn = document.getElementById('reservationBtn');
+    const reservationBtn = document.getElementById('btn-reservation');
     
     if (reservationBtn) {
         reservationBtn.addEventListener('click', function() {
