@@ -253,6 +253,26 @@ body {
     color: var(--primary-color);
 }
 
+/* Newsletter Section */
+
+.newsletter-section {
+    padding: 4rem 0;
+    width: 60vw;
+    margin: auto;
+    color: var(--primary-color);
+    text-align: center;
+}
+
+.newsletter-section h2 {
+    font-size: 2rem;
+}
+
+.input-newsletter {
+    width: 100%; 
+    margin: 8px 0; 
+    padding: 8px;
+}
+
 /* About Section */
 .about-section {
     padding: 4rem 0;
